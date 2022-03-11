@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ace8090/ace8090.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[投票](./index.html)
+
 
 ### Markdown
 
